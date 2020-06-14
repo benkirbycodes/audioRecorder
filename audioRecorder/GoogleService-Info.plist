@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>359341849106-sub6e8n5pb2t8t219nq3ar28e27upht1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.359341849106-sub6e8n5pb2t8t219nq3ar28e27upht1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAVYoQpkbsKS6typPjn-a8mH54Y0Xca59Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>359341849106</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.benkirbycodes.audioRecorder</string>
+	<key>PROJECT_ID</key>
+	<string>audiorecorder-45b76</string>
+	<key>STORAGE_BUCKET</key>
+	<string>audiorecorder-45b76.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:359341849106:ios:3e196cde6db6f0beb4f6cb</string>
+	<key>DATABASE_URL</key>
+	<string>https://audiorecorder-45b76.firebaseio.com</string>
+</dict>
+</plist>
